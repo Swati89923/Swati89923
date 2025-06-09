@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Python, Java, DSA, Web Development**
+- 🌱 I’m currently learning ** Web Development**
 - 📫 Reach me at: [swatijha1803@gmail.com](mailto:swatijha1803@gmail.com)
 
 ---
