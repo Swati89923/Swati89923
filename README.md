@@ -8,7 +8,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Web Development**
+⏰ **Current IST Time**: ![IST Time](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=date_time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&logo=clock)
+
+- 🌱 I'm currently learning **Web Development**
 - 📫 Reach me at: [swatijha1803@gmail.com](mailto:swatijha1803@gmail.com)
 
 ---
@@ -30,12 +32,10 @@
 
 ---
 
-
 ### 🐍 GitHub Contribution Snake Game
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Swati89923/snk/output/github-contribution-grid-snake.svg)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Swati89923/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
 
 ---
 
@@ -46,4 +46,4 @@ You can always contact me through email:
 
 ---
 
-> 💡 *“Code, Learn, Repeat.”* 🚀
+> 💡 *"Code, Learn, Repeat."* 🚀
