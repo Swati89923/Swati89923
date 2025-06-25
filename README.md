@@ -8,7 +8,7 @@
 
 ---
 
-⏰ **Current IST Time**: ![IST Time](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=date_time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&logo=clock)
+⏰ **Current IST Time**: <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=IST&query=datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata" alt="IST Time"/>
 
 - 🌱 I'm currently learning **Web Development**
 - 📫 Reach me at: [swatijha1803@gmail.com](mailto:swatijha1803@gmail.com)
