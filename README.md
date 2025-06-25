@@ -30,7 +30,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake Game
+
 ### 🐍 GitHub Contribution Snake Game
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Swati89923/snk/output/github-contribution-grid-snake.svg)
