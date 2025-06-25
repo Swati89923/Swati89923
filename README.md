@@ -27,6 +27,11 @@
   <a href ="https://swati89923.github.io/Swati89923/" >Link of my portfolio</a>
 </p>
 
+### 🔁 GitHub Contribution Snake Game:
+![GitHub Snake Light](https://raw.githubusercontent.com/Swati89923/snk/output/github-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Swati89923/snk/output/github-snake-dark.svg?palette=github-dark)
+
+
 ---
 
 ### 📫 Connect with me
