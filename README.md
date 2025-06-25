@@ -1,4 +1,5 @@
-# Swati-Kumari
+# Swati Kumari
+
 <h1 align="center">Hi 👋, I'm Swati Kumari</h1>
 
 <p align="center">
@@ -7,7 +8,7 @@
 
 ---
 
-- 🌱 I’m currently learning ** Web Development**
+- 🌱 I’m currently learning **Web Development**
 - 📫 Reach me at: [swatijha1803@gmail.com](mailto:swatijha1803@gmail.com)
 
 ---
@@ -24,13 +25,15 @@
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-API-0052CC?logo=postman&logoColor=white" />
   <br>
-  <a href ="https://swati89923.github.io/Swati89923/" >Link of my portfolio</a>
+  <a href="https://swati89923.github.io/Swati89923/">Link of my portfolio</a>
 </p>
 
-### 🔁 GitHub Contribution Snake Game:
-![GitHub Snake Light](https://raw.githubusercontent.com/Swati89923/snk/output/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Swati89923/snk/output/github-snake-dark.svg?palette=github-dark)
+---
 
+### 🐍 GitHub Contribution Snake Game
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Swati89923/snk/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Swati89923/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
 
