@@ -47,7 +47,8 @@
 
 ### 🎯 Anime Vibes
 
-<img src="https://media.tenor.com/eeGuuWQlqEcAAAAC/luffy-gear5.gif" width="300"/>
+<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-830.gif" width="300"/>
+
 
 ---
 
