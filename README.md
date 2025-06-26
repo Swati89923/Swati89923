@@ -48,9 +48,11 @@
 ---
 
 ### Certificates
+
 ![Dsa in java](https://drive.google.com/file/d/1qkVKyPVnZZyCQI6ub37DTjLIKn5Ylluj/view?usp=sharing)
 ![Full Stack](https://drive.google.com/file/d/1dfcnpD6_A2vdwFn8vHi4-uV33UtrECCR/view?usp=sharing)
 
+---
 
 ### 📫 Connect with me
 
