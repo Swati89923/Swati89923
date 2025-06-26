@@ -41,13 +41,8 @@
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/swati_kumari8?theme=dark&font=Fira+Code&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/swati_kumari8?theme=dark&font=Fira+Code&ext=activity)  <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-830.gif" width="300"/>
 
----
-
-### 🎯 Anime Vibes
-
-<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-830.gif" width="300"/>
 
 
 ---
