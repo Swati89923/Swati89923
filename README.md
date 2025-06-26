@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-API-0052CC?logo=postman&logoColor=white" />
   <br>
-  <a href="https://swati89923.github.io/Swati89923/">Link of my portfolio</a>
+  🔗 <a href="https://swati89923.github.io/Swati89923/">My Portfolio</a>
 </p>
 
 ---
@@ -36,6 +36,18 @@
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Swati89923/snk/output/github-contribution-grid-snake.svg)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Swati89923/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+---
+
+### 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/swati_kumari8?theme=dark&font=Fira+Code&ext=activity)
+
+---
+
+### 🎯 Anime Vibes
+
+<img src="https://media.tenor.com/eeGuuWQlqEcAAAAC/luffy-gear5.gif" width="300"/>
 
 ---
 
