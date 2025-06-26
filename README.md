@@ -1,5 +1,3 @@
-# Swati Kumari
-
 <h1 align="center">Hi 👋, I'm Swati Kumari</h1>
 
 <p align="center">
@@ -32,11 +30,9 @@
 
 ---
 
-
 ### 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/swati_kumari8?theme=dark&font=Fira+Code&ext=activity)     <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-830.gif" width="300"/>
-
 
 ---
 
@@ -49,8 +45,8 @@
 
 ### Certificates
 
-![Dsa in java](https://drive.google.com/file/d/1qkVKyPVnZZyCQI6ub37DTjLIKn5Ylluj/view?usp=sharing)
-![Full Stack](https://drive.google.com/file/d/1dfcnpD6_A2vdwFn8vHi4-uV33UtrECCR/view?usp=sharing)
+📄 [DSA in Java Certificate](https://drive.google.com/file/d/1qkVKyPVnZZyCQI6ub37DTjLIKn5Ylluj/view?usp=sharing)  
+📄 [Full Stack Certificate](https://drive.google.com/file/d/1dfcnpD6_A2vdwFn8vHi4-uV33UtrECCR/view?usp=sharing)
 
 ---
 
