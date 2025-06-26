@@ -39,13 +39,11 @@
 
 ---
 
-### 📊 LeetCode Stats & 🔥 Anime Vibes
+### 📊 LeetCode Stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/swati_kumari8?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" style="display:inline-block; width:48%;" />
-  &nbsp;&nbsp;
-  <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-830.gif" alt="Anime Vibe" style="display:inline-block; width:45%; height:230px;" />
-</div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/swati_kumari8?theme=dark&font=Fira+Code&ext=activity)     <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-830.gif" width="300"/>
+
+
 
 ---
 
