@@ -18,9 +18,9 @@ Currently, I am strengthening my foundation in DSA while exploring Full Stack We
 
 ## 🛠️ Skills & Technologies
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -44,11 +44,14 @@ Currently, I am strengthening my foundation in DSA while exploring Full Stack We
 
 </td>
 
-<td width="45%" align="right" valign="top">
+<td width="6%">
+</td>
+
+<td width="42%" valign="top">
 
 ### 📊 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/Swati_142?theme=dark&font=Fira+Code&ext=contest" width="380"/>
+<img src="https://leetcard.jacoblin.cool/Swati_142?theme=dark&font=Fira+Code&ext=contest" width="360"/>
 
 <br><br>
 
@@ -57,7 +60,6 @@ Currently, I am strengthening my foundation in DSA while exploring Full Stack We
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🔥 GitHub Streak
