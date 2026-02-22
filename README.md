@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-I am a Computer Science student who enjoys solving problems and building things that make an impact.  
-My main interest lies in Data Structures & Algorithms and Backend Development.  
-I love writing clean, optimized code and continuously improving my problem-solving skills.  
+I am a Computer Science student who enjoys solving problems and building meaningful software solutions.  
+My core interest lies in Data Structures & Algorithms and Backend Development.  
 
-Currently, I am focusing on Full Stack Web Development while strengthening my foundation in DSA and system design.
+I focus on writing clean, efficient code and continuously improving my problem-solving ability.  
+Currently, I am strengthening my foundation in DSA while exploring Full Stack Web Development.
 
 ---
 
@@ -44,16 +44,23 @@ Currently, I am focusing on Full Stack Web Development while strengthening my fo
 
 <p align="center">
   🔗 <a href="https://leetcode.com/Swati_142">Visit My LeetCode Profile</a>
-</p>  
-
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swati89923&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swati89923&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Swati89923&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Swati89923&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Swati89923&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
