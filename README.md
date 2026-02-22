@@ -38,14 +38,17 @@ Currently, I am strengthening my foundation in DSA while exploring Full Stack We
 
 ## 📊 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Swati_142?theme=dark&font=Fira+Code&ext=contest" />
-</p>
+<div align="right">
 
-<p align="center">
-  🔗 <a href="https://leetcode.com/Swati_142">Visit My LeetCode Profile</a>
-</p>
+<img src="https://leetcard.jacoblin.cool/Swati_142?theme=dark&font=Fira+Code&ext=contest" width="420"/>
 
+</div>
+
+<div align="right">
+
+🔗 <a href="https://leetcode.com/Swati_142">Visit My LeetCode Profile</a>
+
+</div>
 ---
 
 ## 🔥 GitHub Streak
