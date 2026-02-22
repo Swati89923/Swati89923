@@ -18,15 +18,23 @@ Currently, I am strengthening my foundation in DSA while exploring Full Stack We
 
 ## 🛠️ Skills & Technologies
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
+<br>
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+
+<br>
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -34,21 +42,22 @@ Currently, I am strengthening my foundation in DSA while exploring Full Stack We
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
----
+</td>
 
-## 📊 LeetCode Stats
+<td width="45%" align="right" valign="top">
 
-<div align="right">
+### 📊 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/Swati_142?theme=dark&font=Fira+Code&ext=contest" width="420"/>
+<img src="https://leetcard.jacoblin.cool/Swati_142?theme=dark&font=Fira+Code&ext=contest" width="380"/>
 
-</div>
-
-<div align="right">
+<br><br>
 
 🔗 <a href="https://leetcode.com/Swati_142">Visit My LeetCode Profile</a>
 
-</div>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🔥 GitHub Streak
