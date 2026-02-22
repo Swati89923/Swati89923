@@ -36,9 +36,15 @@ Currently, I am focusing on Full Stack Web Development while strengthening my fo
 
 ---
 
-## 📊 Coding Profile
+## 📊 LeetCode Stats
 
-🔹 LeetCode: https://leetcode.com/Swati_142  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Swati_142?theme=dark&font=Fira+Code&ext=contest" />
+</p>
+
+<p align="center">
+  🔗 <a href="https://leetcode.com/Swati_142">Visit My LeetCode Profile</a>
+</p>  
 
 
 ---
