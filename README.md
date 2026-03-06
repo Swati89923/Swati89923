@@ -85,7 +85,7 @@ Currently, I am strengthening my foundation in DSA while exploring Full Stack We
 ## 📫 Connect With Me
 
 📧 Email: swatijha1803@gmail.com  
-💼 LinkedIn: (Add your LinkedIn link here)
+💼 LinkedIn: ([Add your LinkedIn link her](https://www.linkedin.com/in/swati-kumari-6420a3326/)
 
 ---
 
