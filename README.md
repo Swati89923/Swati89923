@@ -1,12 +1,4 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    VISITOR COUNTER + SOCIAL BADGES            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Swati89923&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         HERO BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -64,7 +56,7 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 
 | 🔭 | Currently working on **Spring Boot & Full Stack Projects** |
 |---|---|
-| 🌱 | Learning **React · System Design · Docker · AWS** |
+| 🌱 | Learning **React.js & Spring Boot (Advanced)** |
 | 💡 | Passionate about **Backend APIs & Open Source** |
 | 🏆 | Solved **394+ LeetCode problems** |
 | 📫 | Reach me at **swatijha1803@gmail.com** |
@@ -74,7 +66,7 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" style="border-radius: 12px;"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding GIF"/>
 
 </td>
 </tr>
@@ -105,9 +97,8 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 ### 📚 Currently Learning
 - 🍃 Spring Boot (Advanced)
 - ⚛️ React.js
-- 🏗️ System Design
-- 🐳 Docker
-- ☁️ AWS Basics
+- 💻 C Programming
+- 🐍 Python (Advanced)
 
 </td>
 
@@ -136,6 +127,7 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 <div align="center">
 
 ### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -149,16 +141,15 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -295,7 +286,7 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 <!--                      ACTIVITY GRAPH                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📉 Contribution & Activity Graph
+## 📉 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swati89923&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&area_color=A855F750" alt="Activity Graph" width="100%"/>
@@ -310,11 +301,16 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swati89923/Swati89923/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swati89923/Swati89923/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Swati89923/Swati89923/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
+
+  <br/>
+  <sub>⚙️ Snake not showing? <a href="https://github.com/Swati89923/Swati89923/actions">Run the GitHub Action</a> to generate it.</sub>
+
 </div>
 
 ---
@@ -351,7 +347,7 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Swati89923)
 
@@ -367,7 +363,7 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Swati89923)
 
@@ -394,9 +390,9 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 ### 🧠 KnowHub
 > A knowledge sharing and Q&A platform built for student communities.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Swati89923)
@@ -405,27 +401,6 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 
 </tr>
 </table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACHIEVEMENTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌟 Achievements
-
-<div align="center">
-
-| Badge | Achievement |
-|:---:|:---|
-| 🏆 | Solved **394+ LeetCode Problems** across Easy, Medium & Hard |
-| ⭐ | Built **multiple Full Stack Projects** end-to-end |
-| 🚀 | Developing with **Spring Boot** for production-grade APIs |
-| 💻 | Strong foundation in **Data Structures & Algorithms** |
-| 🌱 | Active **Open Source Learner** contributing to GitHub |
-| 🎯 | Maintained **87.64% beat rate** on LeetCode (764768 / 874367) |
 
 </div>
 
@@ -457,7 +432,7 @@ I focus on writing **clean, efficient code** and continuously improving my probl
 >
 > ⚡ I love backend development and designing clean REST APIs.
 >
-> ⚡ I'm always learning something new — currently it's System Design.
+> ⚡ I'm always learning something new and growing every day.
 >
 > ⚡ I believe in **"Code. Learn. Improve. Repeat."** 🚀
 >
